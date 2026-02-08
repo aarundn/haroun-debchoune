@@ -44,13 +44,16 @@ I enjoy building smooth, scalable, and modern Android apps with a strong focus o
 ## 📊 GitHub Stats  
 
 <div align="center">
-  
-  ![Haroun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarundn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarundn&theme=dark&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarundn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aarundn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarundn&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages" />
+  </a>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarundn&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+  </a>
 </div>
 
 ---
