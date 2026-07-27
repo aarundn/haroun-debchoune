@@ -2,7 +2,7 @@
 ![MasterHead](./1769951122181.jfif)
 
 ## 👋 About Me  
-I'm **Haroun Debchoune**, an **Android Developer** with **1.5 years of experience** in **Kotlin** & **Jetpack Compose**, and **3 years** of experience in **Java**.  
+I'm **Haroun Debchoune**, an **Android Developer** with **2 years of experience** in **Kotlin** & **Jetpack Compose**, and **3 years** of experience in **Java**.  
 I enjoy building smooth, scalable, and modern Android apps with a strong focus on **clean architecture**, **user experience**, and **performance**.
 
 💡 Currently, I’m:
